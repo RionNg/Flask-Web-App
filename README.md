@@ -13,8 +13,8 @@ This is a Flask web application designed to allow users to sign up, log in, crea
 
 ## Features
 - **User Authentication:** Users can sign up for an account, log in, and log out securely.
-- -**Database Integration:** User account information and notes are stored in the database.
-- -**Notes Management:** Users can add new notes, view existing notes, and delete notes.
+- **Database Integration:** User account information and notes are stored in the database.
+- **Notes Management:** Users can add new notes, view existing notes, and delete notes.
 
 ## Technologies
 - **Flask**
